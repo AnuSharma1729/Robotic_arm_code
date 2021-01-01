@@ -1,0 +1,4 @@
+//update text under scroll bars
+function updateTextInput1(val) {
+    document.getElementById('s1textInput').value=val;
+}
